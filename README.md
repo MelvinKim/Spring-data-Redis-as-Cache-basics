@@ -1,2 +1,1 @@
-# Spring-data-Redis-as-Cache-basics
-Spring-data-Redis-as-Cache-basics
+# spring-data-redis-cache
